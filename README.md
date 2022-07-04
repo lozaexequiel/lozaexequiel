@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lozaexequiel
+- 🌱 I’m currently learning blockchain technologies and sre
+- 💞️ I'm looking to innovate in the IOT and DLT sectors
+- 📫 My complete profile is in www.lozaexequiel.com
